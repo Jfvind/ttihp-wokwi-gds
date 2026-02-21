@@ -9,11 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simple HalfAdder to seven-segment display in decimal 
 
 ## How to test
 
-Explain how to use your project
+Seven-segment displays how many of the two switches are on. Flip the switches, the outputs should be as below. 
+"00" -> 0, "01" -> 1, "10" -> 1, "11" -> 2 
 
 ## External hardware
 
